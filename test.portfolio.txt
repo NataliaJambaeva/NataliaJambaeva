@@ -33,3 +33,26 @@ Writing objects: 100% (3/3), 301 bytes | 301.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/NataliaJambaeva/NataliaJambaeva.git
    dd36a0a..06b6504  main -> main
+   natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git add . 
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git commit -ma "Changing language contact me"
+error: pathspec 'Changing language contact me' did not match any file(s) known to git
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git commit -m "Changing language in contact me"
+[main 409e864] Changing language in contact me
+ 2 files changed, 39 insertions(+), 4 deletions(-)
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1.20 KiB | 617.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/NataliaJambaeva/NataliaJambaeva.git
+   06b6504..409e864  main -> main
