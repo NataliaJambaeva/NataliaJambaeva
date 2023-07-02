@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **NataliaJambaeva/NataliaJambaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,11 +8,11 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About me:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 150.000 человек. Зв время преподавтаельской деятельности обучил более 4000 студентов на разных платформах.
+Results-driven professional with a successful track record in the banking industry and order sales department. Skilled in credit analysis, customer relationship management, and problem-solving. Recently completed a comprehensive QA course, acquiring a solid foundation in quality assurance principles and practices. Proven ability to maintain accuracy, meet deadlines, and provide exceptional customer service. Effective communicator with excellent interpersonal skills, able to collaborate with cross-functional teams to drive process improvements and optimize overall product quality.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-nataliajambaeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nataliajambaeva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nvjambaeva@gmail.com)
+- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-nataliajambaeva-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nataliajambaeva/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nvjambaeva@gmail.com)
 
 ---
 

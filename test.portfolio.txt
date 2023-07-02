@@ -1,0 +1,35 @@
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git add .
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git commit -m "Adding my portfolio"
+[main dd36a0a] Adding my portfolio
+ 1 file changed, 90 insertions(+), 10 deletions(-)
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 2.27 KiB | 1.13 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/NataliaJambaeva/NataliaJambaeva.git
+   44af422..dd36a0a  main -> main
+   $ git add .
+   natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git commit -m "Adding information about me"
+[main 06b6504] Adding information about me
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test.portfolio.txt
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 301 bytes | 301.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/NataliaJambaeva/NataliaJambaeva.git
+   dd36a0a..06b6504  main -> main
