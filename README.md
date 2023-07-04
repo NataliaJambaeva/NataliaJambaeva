@@ -8,8 +8,8 @@
 <ul>
 <li>  I’m open to work as a QA Engineer </li>
 <li>  Finished functional software testing course </li> 
-<li>  Have banking 5+year experience as a credit specialist </li>
-<li>  Check out my resume </li>
+<li>  I have 5+ years experience as a credit specialist in the banking industry </li>
+<li>  Here is my resume </li>
 </ul>
 ---
 

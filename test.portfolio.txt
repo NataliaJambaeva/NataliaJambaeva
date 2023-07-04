@@ -75,3 +75,25 @@ natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/Natali
 $ git commit -m "Removing Telegram from social media"
 [main b7e2d64] Removing Telegram from social media
  1 file changed, 24 insertions(+), 1 deletion(-)
+ natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git push
+Everything up-to-date
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git add .
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git commit -m "Improving the style of my porfolio"
+[main ca93fc3] Improving the style of my porfolio
+ 1 file changed, 14 insertions(+), 42 deletions(-)
+
+natal@NataliaJLaptop MINGW64 ~/OneDrive/Документы/Git_trainings1/NataliaJambaeva (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 592 bytes | 592.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/NataliaJambaeva/NataliaJambaeva.git
