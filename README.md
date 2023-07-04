@@ -16,20 +16,16 @@ Results-driven professional with a successful track record in the banking indust
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 My Social media:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/nataliajambaeva/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+      </div>
+      ---
 
----
-
-### 📁 Тестовая документация:
+### 📁 Testing documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -42,7 +38,7 @@ Results-driven professional with a successful track record in the banking indust
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web Application Testing:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -52,7 +48,7 @@ Results-driven professional with a successful track record in the banking indust
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile App Testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -65,7 +61,7 @@ Results-driven professional with a successful track record in the banking indust
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Data Testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -74,7 +70,7 @@ Results-driven professional with a successful track record in the banking indust
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Code Inspection:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -85,12 +81,11 @@ Results-driven professional with a successful track record in the banking indust
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+<!-- ### 💻 Course:
 
-| Курсы                                                           | Дата              |
+|                                                         
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| Functional Testing Course                          | 03/2022 - 06/2023 |
 
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
