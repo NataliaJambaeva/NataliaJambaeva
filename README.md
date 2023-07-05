@@ -53,7 +53,16 @@ Results-driven professional with a successful track record in the banking indust
 Artifacts
 ---
 <a href= https://github.com/NataliaJambaeva/MySQL/commit/0dee0ce0368da93c3a6a8ab09fe6c9f96ebe6eee> MySQL
+---
+<a href= https://github.com/NataliaJambaeva/Webshop-testing/commit/7aa70deb2bd00060111857efac7489438eb09ba5> Webshop-testing
+---
+<a href= https://github.com/NataliaJambaeva/Mobile-App-testing/commit/7d3f3569d887c1c6c558fdd1b718e0b14b606dc6> Mobile App testing
+---
+<a href= https://github.com/NataliaJambaeva/Charles-Proxy> Charles Proxy
+---
+<a href= https://github.com/NataliaJambaeva/Bash> Bash
 
+<a href= https://github.com/NataliaJambaeva/Git> Git
 
 
 
